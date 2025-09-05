@@ -1,0 +1,28 @@
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.exe
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.deps.json
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.runtimeconfig.json
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.dll
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.pdb
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.AssemblyInfo.cs
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.dll
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\refint\26192811-Mohamed Ashraf-A2.dll
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.pdb
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.genruntimeconfig.cache
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\ref\26192811-Mohamed Ashraf-A2.dll
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.exe
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.deps.json
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.runtimeconfig.json
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.dll
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\bin\Debug\net8.0\26192811-Mohamed Ashraf-A2.pdb
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.AssemblyInfo.cs
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.dll
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\refint\26192811-Mohamed Ashraf-A2.dll
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.pdb
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\26192811-Mohamed Ashraf-A2.genruntimeconfig.cache
+C:\Users\user\Desktop\26192811-Mohamed Ashraf-A2\26192811-Mohamed Ashraf-A2\obj\Debug\net8.0\ref\26192811-Mohamed Ashraf-A2.dll

@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mohamed\\ENGINEERING\\KAITECH\\26192811-Mohamed Ashraf-A4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E14241-E89A-4AA6-B9E5-212BC63ADA74}|A1_CS_Fundamentals_Temp\\A1_CS_Fundamentals_Temp.csproj|e:\\mohamed\\engineering\\kaitech\\26192811-mohamed ashraf-a4\\a1_cs_fundamentals_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E14241-E89A-4AA6-B9E5-212BC63ADA74}|A1_CS_Fundamentals_Temp\\A1_CS_Fundamentals_Temp.csproj|solutionrelative:a1_cs_fundamentals_temp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mohamed\\ENGINEERING\\KAITECH\\26192811-Mohamed Ashraf-A4\\A1_CS_Fundamentals_Temp\\Program.cs",
+              "RelativeDocumentMoniker": "A1_CS_Fundamentals_Temp\\Program.cs",
+              "ToolTip": "E:\\Mohamed\\ENGINEERING\\KAITECH\\26192811-Mohamed Ashraf-A4\\A1_CS_Fundamentals_Temp\\Program.cs",
+              "RelativeToolTip": "A1_CS_Fundamentals_Temp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T18:40:12.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
